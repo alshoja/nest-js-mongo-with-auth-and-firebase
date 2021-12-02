@@ -1,6 +1,5 @@
-# Servicio
+# Nest JS with Auth JWT & Firebase Messaging
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
 # Look and Feel
 <!-- <a target="_blank" href="http://advali.iroidtechnologies.in/"><img src="https://i.imgur.com/CS5dxII.png"/></a> -->
