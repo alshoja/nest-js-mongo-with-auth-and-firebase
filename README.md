@@ -1,8 +1,5 @@
 # Nest JS with Auth JWT & Firebase Messaging
 
-
-# Look and Feel
-<!-- <a target="_blank" href="http://advali.iroidtechnologies.in/"><img src="https://i.imgur.com/CS5dxII.png"/></a> -->
 ## Installing process for Local environment BE
 
 * Download node [Node Latest](https://nodejs.org/en/)
